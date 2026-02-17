@@ -1,0 +1,9 @@
+﻿{
+    "note":  "Sanitized proof artifact safe for public verification with the included public_key.xml",
+    "proof_id":  "proof-5e37ddeb-16c7-47a3-89d1-a940e3437aaa",
+    "executed_at":  "2026-02-17T13:12:43.8344068-05:00",
+    "signature":  "C1q2q0/xTd8Ultri5e5qKa2wrZjRFGt1alRuanoz1a5TqLQcbBbxeI2ZN4PP/R/Bmv64DQ0tG5+5ecd9yAvOp6n3+7Hilusyy0POKf0S5Ie1Yz+0ODLSnk+q6rNiF6JdYsL4ShzYSFuvab6xCsHHM8pqNFaXy+bpMAqvHUBlDu/R1Xl4QyT9vbXh9fbzRkWadLFC8q34zUoDQAyKU1CFBaqhMmPIWVAVb10efnJJYEMx2q2L3Bfr9k7AFFcgFlJaE1EKv6DeBgzcuRKwA2fBtYq3aPVPT9nFTxY+E1ZpF4NTp8mlakEif5ZtVKOdA44RUGmc+C7cEkvltB4vBRArfQ==",
+    "instruction_id":  "instr-signed-001",
+    "payload_hash":  "je8VngtHGz670ghavwss6B+xsSno/z+kA5o2Rm0OAkQ=",
+    "public_key_fingerprint":  "eMQlUkatwB1mrmEqhU3mE3+Bd8n08eG6Cr9s4UeGDfY="
+}
